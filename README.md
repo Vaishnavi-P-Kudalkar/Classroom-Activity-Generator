@@ -4,7 +4,7 @@ An AI-powered interactive classroom tool designed to generate custom activities,
 
 
 ✨ Features
-🔁 Dynamic Activity Generation: Generate diverse activities (e.g., quizzes, fill-in-the-blanks, coding tasks) using AI.
+🔁 Dynamic Activity Generation: Generate diverse activities (e.g. coding tasks) using AI.
 
 🧪 Student Response Evaluation: Automatically grade responses using GPT and provide feedback.
 
