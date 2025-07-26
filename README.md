@@ -25,9 +25,13 @@ Think of the agent like a “broker” or “project manager” — capable of b
 This agentic setup becomes particularly powerful for complex education pipelines like syllabus creation, exam paper generation, or adaptive learning paths.
 
 
-
-Directions to follow
+Requirments
 ->you clone this project
 -> create a .env file in the backend folder
 ->use open ai key(I have used open_ai router )
 ->then you are good to gooooo
+
+How to run
+2 terminals one go into frontend folder and other backend folder-> run backend code " python app.py" -> then frontend "npm start"
+
+
